@@ -10,4 +10,4 @@ a simple yet beautiful landing page using CSS javascript scrollreveal and swiper
 
 ---
 
-## click [**here**]() to see the demo
+## click [**here**](https://itssinaa.github.io/jbl_headphone/) to see the demo
